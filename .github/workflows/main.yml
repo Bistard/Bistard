@@ -21,39 +21,34 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+
           # Options
           user: Bistard
-          template: classic
-          base: header, activity, repositories, metadata
+          template: repository
+          repo: nota
+          base: header, activity
           config_timezone: America/New_York
+          config_order: lines, repositories, habits, languages, achievements
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: A
           plugin_habits: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 600
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 4
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: .user.login
-          plugin_nightscout: yes
-          plugin_nightscout_datapoints: 12
-          plugin_nightscout_highalert: 180
-          plugin_nightscout_lowalert: 80
-          plugin_nightscout_urgenthighalert: 250
-          plugin_nightscout_urgentlowalert: 50
-          plugin_nightscout_url: https://example.herokuapp.com
-          plugin_repositories: 100
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
+          plugin_repositories: yes
+          plugin_repositories_featured: Bistard/nota
