@@ -24,8 +24,7 @@ jobs:
 
           # Options
           user: Bistard
-          template: repository
-          repo: nota
+          template: classic
           base: header, activity
           config_timezone: America/New_York
           config_order: lines, repositories, habits, languages, achievements
