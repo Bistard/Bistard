@@ -28,6 +28,9 @@ jobs:
           base: header
           config_timezone: America/New_York
           config_order: base.header, lines, repositories, habits, languages, achievements, activity
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: Bistardd
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: no
