@@ -28,6 +28,9 @@ jobs:
           base: header
           config_timezone: America/New_York
           config_order: base.header, lines, repositories, habits, languages, leetcode, activity
+          
+          commits_authoring: Sihan Li, Bistard, lshh1015813038@gmail.com
+
           plugin_leetcode: yes
           plugin_leetcode_sections: solved
           plugin_leetcode_user: Bistardd
