@@ -34,7 +34,7 @@ jobs:
           commits_authoring: 1015813038@qq.com, lshh1015813038@gmail.com, s795li@uwaterloo.ca
 
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved
+          plugin_leetcode_sections: solved, skills
           plugin_leetcode_user: Bistardd
           plugin_achievements: no
           plugin_achievements_display: compact
