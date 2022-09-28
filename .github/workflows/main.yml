@@ -30,7 +30,7 @@ jobs:
           config_timezone: America/New_York
           config_order: base.header, lines, repositories, habits, languages, leetcode, activity
           
-          repositories_skipped: nginx
+          repositories_skipped: 2021-DWZQ-coop
 
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
