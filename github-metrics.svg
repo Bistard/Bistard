@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -137,12 +137,12 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="550.7689196018503" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="550.7689196018503" y="0" width="242.06433996814425" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="792.8332595699944" y="0" width="40.92593410641758" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="833.759193676412" y="0" width="35.10920447003055" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="868.8683981464426" y="0" width="30.37085873028706" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="899.2392568767297" y="0" width="20.760743123270345" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="544.4645437851858" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="544.4645437851858" y="0" width="249.54284863662056" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="794.0073924218063" y="0" width="40.457475447854534" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="834.4648678696608" y="0" width="34.70732700068607" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="869.172194870347" y="0" width="30.023218730105196" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="899.1954136004521" y="0" width="20.80458639954782" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -155,7 +155,7 @@
                             </div>
                             <small>
                                 <div>2.15 MB</div>
-                                <div>59.87%</div>
+                                <div>59.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -167,7 +167,7 @@
                             </div>
                             <small>
                                 <div>118 kB</div>
-                                <div>3.3%</div>
+                                <div>3.26%</div>
                             </small>
                         </div>
                     </section>
@@ -180,8 +180,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>947 kB</div>
-                                <div>26.31%</div>
+                                <div>987 kB</div>
+                                <div>27.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -192,7 +192,7 @@
                                 C
                             </div>
                             <small>
-                                <div>81.2 kB</div>
+                                <div>82.3 kB</div>
                                 <div>2.26%</div>
                             </small>
                         </div>
@@ -207,7 +207,7 @@
                             </div>
                             <small>
                                 <div>160 kB</div>
-                                <div>4.45%</div>
+                                <div>4.4%</div>
                             </small>
                         </div>
                     </section>
@@ -221,7 +221,7 @@
                             </div>
                             <small>
                                 <div>137 kB</div>
-                                <div>3.82%</div>
+                                <div>3.77%</div>
                             </small>
                         </div>
                     </section>
@@ -240,17 +240,17 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="33.78846153846154 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">251</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2444</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="35.120245398773 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">261</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2445</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="63.05833333333334 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">115</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.155 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">117</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/600</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -258,9 +258,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="33.27816091954023 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">132</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1305</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="35.26799387442573 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">140</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1306</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -284,16 +284,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x132</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x59</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x45</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x42</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x41</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x41</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x38</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x138</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x60</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x47</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x45</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x45</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x42</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x40</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x33</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x30</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x27</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x27</span></div>
                     </div>
                 </section>
             </section>
