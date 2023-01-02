@@ -29,13 +29,11 @@ jobs:
           base: header
           config_timezone: America/New_York
           config_order: base.header, lines, repositories, habits, languages, leetcode, activity
-          
-          repositories_skipped: 2021-DWZQ-coop
-
+        
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: lshh1015813038@gmail.com
-
+          commits_authoring: Bistard@github.com, 1015813038@qq.com, lshh1015813038@gmail.com
+        
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills
           plugin_leetcode_user: Bistardd
@@ -47,7 +45,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_ignored: Java
-#           plugin_languages_skipped: oj
+          plugin_repositories_skipped: 2021-DWZQ-coop
+          plugin_languages_skipped: oj
           plugin_languages_indepth: yes
           plugin_languages_indepth_custom: Bistard/nota@master
           plugin_languages_details: lines, percentage
