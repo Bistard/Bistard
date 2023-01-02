@@ -45,7 +45,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_ignored: Java
-          plugin_repositories_skipped: "2021-DWZQ-coop\noj"
+          plugin_repositories_skipped: "2021-DWZQ-coop"
           plugin_languages_indepth: yes
           plugin_languages_indepth_custom: Bistard/nota@master
           plugin_languages_details: lines, percentage
