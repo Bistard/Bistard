@@ -31,7 +31,7 @@ jobs:
           config_order: base.header, lines, repositories, habits, languages, leetcode, activity
         
           base_indepth: yes
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner
           commits_authoring: Bistard@github.com, 1015813038@qq.com, lshh1015813038@gmail.com
         
           plugin_leetcode: yes
