@@ -34,7 +34,7 @@ jobs:
 
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: Bistard@github.com
+          commits_authoring: 1015813038@qq.com
 
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills
@@ -52,11 +52,6 @@ jobs:
           plugin_languages_indepth_custom: Bistard/nota@master
           plugin_languages_details: lines, percentage
           plugin_languages_analysis_timeout: 60
-          
-          plugin_topics: yes
-          plugin_topics_mode: labels
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
           
           plugin_lines: yes
           plugin_repositories: yes
