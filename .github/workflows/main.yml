@@ -34,7 +34,7 @@ jobs:
 
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: 1015813038@qq.com
+          commits_authoring: lshh1015813038@gmail.com
 
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills
