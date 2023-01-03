@@ -33,7 +33,6 @@ jobs:
           base_indepth: yes
           repositories_affiliations: owner
           commits_authoring: Bistard@github.com, 1015813038@qq.com, lshh1015813038@gmail.com
-          repositories_skipped: 2021-DWZQ-coop
         
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills
@@ -46,7 +45,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_ignored: Java
-          plugin_languages_skipped: "oj"
+          plugin_languages_skipped: "2021-dwzq-coop\noj"
           plugin_languages_indepth: yes
           plugin_languages_indepth_custom: Bistard/nota@master
           plugin_languages_details: lines, percentage
