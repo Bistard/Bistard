@@ -48,7 +48,7 @@ jobs:
           plugin_languages_skipped: AGE-2D-Game-Engine
 
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: Bistard/nota@master
+#           plugin_languages_indepth_custom: Bistard/nota@master
           plugin_languages_details: lines, percentage
           plugin_languages_analysis_timeout: 60
           
