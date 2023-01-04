@@ -45,10 +45,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_ignored: Java
-          plugin_languages_skipped: AGE-2D-Game-Engine
-
+          plugin_languages_skipped: "oj\nAGE-2D-Game-Engine\n"
           plugin_languages_indepth: yes
-#           plugin_languages_indepth_custom: Bistard/nota@master
+          plugin_languages_indepth_custom: Bistard/nota@master, Bistard/AGE-2D-Game-Engine@master
           plugin_languages_details: lines, percentage
           plugin_languages_analysis_timeout: 60
           
